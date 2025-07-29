@@ -1,0 +1,25 @@
+*{
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+}
+html{
+  font-size: 62.5%;
+}
+body{
+  height: 100%;
+  width: 100vw;
+  /* overflow: hidden; */
+  background-image: url("./images/signup_back.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  text-transform: capitalize;
+}
+a{
+  text-decoration: none;
+}
